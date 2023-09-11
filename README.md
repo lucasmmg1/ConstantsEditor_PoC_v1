@@ -1,5 +1,4 @@
 # Proof of Concept: Constants Editor for Unity Editor
-
 This is a proof of concept made for managing constants easily in the Unity Editor! <br>
 
 <h2> Goals </h2>
